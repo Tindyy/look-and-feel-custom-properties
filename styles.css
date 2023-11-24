@@ -10,3 +10,18 @@
     --federalblue:#080357;
     --backgroundwhite:#ffffff;
 }
+
+.handprint{
+    color: var(--federalblue),blue;
+    background-color: var(--cornsilk),white;
+}
+
+.footprint{
+    color: var(--pakistangreen), green;
+    background-color: var(--cornsilk),white;
+}
+
+.importance{
+    color: var(--murrey),magenta;
+    background-color: var(--cornsilk), white;
+}
